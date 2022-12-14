@@ -2,7 +2,7 @@
 
 #considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 print('='*30)
-print('{:.^30}'.format('BANDO CEV')
+print('{:.^30}'.format('BANDO CEV'))
 print('='*30)
 valor = int(input('Que valor você quer sacar? '))
 total = valor 
